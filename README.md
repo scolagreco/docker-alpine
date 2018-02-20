@@ -1,3 +1,6 @@
+[![Docker Stars](https://img.shields.io/docker/stars/scolagreco/docker-alpine.svg)](https://hub.docker.com/r/scolagreco/docker-alpine/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/scolagreco/docker-alpine.svg)](https://hub.docker.com/r/scolagreco/docker-alpine/)
+
 # Docker Image Alpine Base
 
 Repository con il dockerfile per creare una Docker Image base con Alpine.
