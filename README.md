@@ -10,11 +10,12 @@ Repository con il dockerfile per creare una Docker Image base con Alpine.
 
 ## Info
 
-Attualmente la `latest` è la versione 3.9.2.
+Attualmente la `latest` è la versione 3.9.4.
 
 ## Versions
 
 - `latest` [(Dockerfile)](https://github.com/scolagreco/docker-alpine/blob/master/Dockerfile)
+- [`v3.9.4`](https://github.com/scolagreco/docker-alpine/releases/tag/v3.9.4)
 - [`v3.9.2`](https://github.com/scolagreco/docker-alpine/releases/tag/v3.9.2)
 - [`v3.8.2`](https://github.com/scolagreco/docker-alpine/releases/tag/v3.8.2)
 - [`v3.8.1`](https://github.com/scolagreco/docker-alpine/releases/tag/v3.8.1)
