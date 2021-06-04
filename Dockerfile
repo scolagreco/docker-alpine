@@ -4,7 +4,7 @@ ADD rootfs.tar.gz /
 
 # Metadata params
 ARG BUILD_DATE
-ARG VERSION="v3.12.1"
+ARG VERSION="v3.13.5"
 ARG VCS_URL="https://github.com/scolagreco/docker-alpine.git"
 ARG VCS_REF
 
